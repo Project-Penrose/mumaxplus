@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.fft import rfft, rfftfreq

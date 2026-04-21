@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Magnet implementation."""
 
 import numpy as _np

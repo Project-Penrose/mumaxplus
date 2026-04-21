@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Create a magnetic force microscopy instance."""
 from .. import _cpp
 from mumaxplus import FieldQuantity, Grid, World, Magnet

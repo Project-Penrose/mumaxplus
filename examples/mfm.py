@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """In this example we create 2 magnets and visualize them using
    magnetic force microscopy."""
 

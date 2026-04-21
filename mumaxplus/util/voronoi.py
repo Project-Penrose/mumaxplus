@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Create a Voronoi tessellator."""
 
 import numpy as _np

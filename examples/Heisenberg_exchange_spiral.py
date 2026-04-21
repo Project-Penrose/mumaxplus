@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This script compares numerical and analytical exchange energy for spiral
 magnetizations as a function of the angle between neighboring spins. This is a
 recreation of figure 5 of the paper "The design and verification of MuMax3".

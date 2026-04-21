@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Physical constants used in mumax⁺.
 This file copies src/physics/constants.hpp.
 

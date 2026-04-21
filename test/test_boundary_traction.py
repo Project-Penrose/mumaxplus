@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 import numpy as np
 from mumaxplus import World, Grid, Ferromagnet
 from mumaxplus.util.shape import Ellipsoid

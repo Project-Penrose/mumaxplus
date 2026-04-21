@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """BoundaryTraction implementation."""
 
 from .parameter import Parameter

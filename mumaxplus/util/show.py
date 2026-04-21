@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Plotting helper functions."""
 
 import matplotlib.pyplot as _plt

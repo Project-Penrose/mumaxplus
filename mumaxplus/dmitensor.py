@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """DmiTensor implementation."""
 
 from .parameter import Parameter

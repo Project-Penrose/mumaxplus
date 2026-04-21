@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This script switches the state of a bit in a vertical MRAM stack (free layer
 on the bottom, spacer layer, fixed layer on top) using Slonczewski spin transfer
 torque. This is based on both the paper "The design and verification of MuMax3"

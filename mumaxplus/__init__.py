@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """GPU accelerated micromagnetic simulator."""
 
 import argparse as _argparse

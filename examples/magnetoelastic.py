@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This example initializes a magnet magnetized to the right.
 The magnet is minimized and the elastic parameters are assigned together
 with a circular area in which an external sinusoidal field is applied

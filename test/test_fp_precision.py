@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """
 The test used here is based on examples/errorscaling.py, since the
 error scaling is highly dependent on the floating-point precision.

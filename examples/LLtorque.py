@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 # This script precesses a single spin around a magnetic field without damping
 
 import matplotlib.pyplot as plt

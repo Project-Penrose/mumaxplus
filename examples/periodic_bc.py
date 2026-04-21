@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from mumaxplus import Ferromagnet, Grid, World
 from mumaxplus.util import get_rgb
 import numpy as np

@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This script compares the coercivity in the small particle limit of standard 
 problem 2 to the analytical value. This mostly tests the minimize function.
 TODO: try with relax function as well

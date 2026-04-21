@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Classes for common shapes and their manipulation."""
 
 import numpy as _np
@@ -655,4 +656,3 @@ if __name__=="__main__":
     x = y = z = _np.linspace(-a, a, res)
 
     plot_shape_3D(shape, x,y,z)
-

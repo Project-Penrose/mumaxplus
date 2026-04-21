@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Common magnetization configurations."""
 
 import numpy as _np

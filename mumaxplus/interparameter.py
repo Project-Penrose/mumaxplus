@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """InterParameter implementation."""
 
 from . import _cpp

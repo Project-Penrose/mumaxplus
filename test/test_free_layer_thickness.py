@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This test checks if the Slonczewski torque remains the same
 if empty layers are added to the system.
 """

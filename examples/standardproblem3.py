@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 # This script solves micromagnetic standard problem 3. The Problem specification
 # can be found on https://www.ctcms.nist.gov/~rdm/mumag.org.html
 # Only flower and vortex states are studied, but the mumax³ paper shows there to

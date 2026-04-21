@@ -1,4 +1,5 @@
 #!/bin/env python3
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 from mumaxplus import Ferromagnet, Grid, World
 from mumaxplus.util import plot_field

@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This example creates an elastic magnet without any magnetization.
 It then shows an animation of the displacement and kinetic and potential energy."""
 

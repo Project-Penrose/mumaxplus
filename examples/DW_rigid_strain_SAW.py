@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """In this example we move a domain wall by setting a time and space dependent
    strain in a ferromagnet to simulate the effect of a SAW wave. This is
    based on the method used in

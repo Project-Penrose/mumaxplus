@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """
 This script compares results of mumax⁺ to those from the paper of
 Sánchez-Tejerina et al. (https://doi.org/10.1103/PhysRevB.101.014433)

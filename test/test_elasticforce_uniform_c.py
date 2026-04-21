@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This file tests every term of the elastic force individually by comparing
 the calculated elastic force to the analytical solutions.
 Periodic boundry conditions are used in the direction(s) corresponding to the

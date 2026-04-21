@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from mumaxplus import Grid, World
 from mumaxplus.util import VoronoiTessellator
 

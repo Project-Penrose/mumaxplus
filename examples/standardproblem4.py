@@ -1,4 +1,5 @@
 #!/bin/env python3
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # This script solves micromagnetic standard problem 4. The Problem specification
 # can be found on https://www.ctcms.nist.gov/~rdm/mumag.org.html

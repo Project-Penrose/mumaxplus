@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Functions to calculate common micromagnetic quantities."""
 
 import numpy as _np

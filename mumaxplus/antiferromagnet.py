@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Antiferromagnet implementation."""
 
 import numpy as _np

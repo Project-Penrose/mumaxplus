@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This test compares the amount of Néel vector
 canting against the results from
 https://journals.aps.org/prb/pdf/10.1103/PhysRevB.103.134413

@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from mumaxplus import Ferromagnet, Grid, World
 from mumaxplus.util import neelskyrmion, plot_field
 import matplotlib.pyplot as plt

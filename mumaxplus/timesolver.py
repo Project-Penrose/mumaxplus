@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Classes for solving differential equations in the time domain."""
 
 from typing import Callable

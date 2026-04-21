@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 # This script solves micromagnetic standard problem 2. The Problem specification
 # can be found on https://www.ctcms.nist.gov/~rdm/mumag.org.html
 # The coercivity for small particles can also be compared to the analytical value

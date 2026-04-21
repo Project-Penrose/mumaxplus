@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 # This script shows the uniaxial and cubic anisotropy energies for multiple
 # magnetization directions in the xy-plane.
 

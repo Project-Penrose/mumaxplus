@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This script compares numerical and analytical exchange energy contributions
 for spiral magnetizations as a function of the angle between neighboring spins
 and the angle between spins in the same simulation cell.

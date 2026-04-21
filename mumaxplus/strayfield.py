@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """StrayField implementation."""
 
 from . import _cpp

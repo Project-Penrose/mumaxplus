@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Antiferromagnetic spinwave dispersion relation
 This test copies the example and automatically tests the difference between the
 analytical and simulation results within the valid range.

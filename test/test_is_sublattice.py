@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from mumaxplus import World, Grid, Antiferromagnet, Ferromagnet
 
 

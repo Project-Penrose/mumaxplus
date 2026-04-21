@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from mumaxplus import Grid, World, Ferromagnet
 
 def expectv(result, wanted, tol):

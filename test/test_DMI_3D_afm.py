@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This test is based on the 3D case in
    https://iopscience.iop.org/article/10.1088/1367-2630/aaea1c
    It compares the final magnetization of both sublattices in an antiferromagnet

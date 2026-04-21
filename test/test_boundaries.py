@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Test if the canting at the end of a nanowire corresponds to the 1D analytical
 result if open boundary conditions are used. This test is similar to the
 standard test proposed in arXiv:1803.11174

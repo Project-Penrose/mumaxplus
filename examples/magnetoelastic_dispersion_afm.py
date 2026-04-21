@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This script creates the magnetoelastic dispersion relation in AFM when the 
 wave propagation and the magnetization form an angle theta as described in
 mumax+: extensible GPU-accelerated micromagnetics and beyond.

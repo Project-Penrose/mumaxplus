@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """This script computes the transition of a Bloch wall into a Neel wall
 by varying the interfacially induced DMI parameter. This is a recreation
 of figure 6 of the paper "The design and verification of MuMax3".

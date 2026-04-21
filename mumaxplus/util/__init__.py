@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Utilities for mumax⁺."""
 
 from .constants import GAMMALL_DEFAULT, MU0, KB, QE, MUB, HBAR

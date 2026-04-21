@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from distutils.version import LooseVersion
 import os
 import platform
